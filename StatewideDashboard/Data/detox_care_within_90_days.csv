@@ -1,0 +1,17 @@
+﻿Level_of_Care,N,Percent
+Outpatient Care (OP),203,1.2
+Intensive Outpatient (IOP),867,5
+Opioid Maintenance OP,507,2.9
+Opioid Maintenance IOP,70,0.4
+Partial Hospitalization/Transition Care,154,0.9
+Halfway House,25,0.1
+Long-Term Residential,2103,12.2
+Short-Term Residential,5634,32.6
+Hospital-Based Residential,2,0
+Detox Residential,3142,18.2
+Detox Hospital,7,0
+Detox Outpatient Non-Methadone,10,0.1
+Detox Outpatient Methadone,2,0
+Interim Services,1,0
+None,4538,26.3
+Total,17265,100

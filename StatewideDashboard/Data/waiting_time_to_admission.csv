@@ -1,0 +1,15 @@
+﻿Level_of_Care,N,Mean_Days,Median_Days,Percent_0_1_Days,Percent_2_3_Days,Percent_Over_3_Days
+Outpatient Care (OP),16492,1.7,0,78.6,8.4,12.9
+Intensive Outpatient (IOP),17193,1.4,0,83,7.4,9.5
+Partial Hospitalization,2588,0.7,0,85,10.8,3.7
+Opioid Maintenance-Outpatient,10932,0.4,0,94,3.3,2.5
+Opioid Maintenance-Intensive Outpatient,1465,0.4,0,93.7,3.6,2.7
+Halfway House,1961,4.5,0,59.2,8.6,32.3
+Long-Term Residential,5983,1.2,0,84.8,8.7,6.5
+Short-Term Residential,10630,0.3,0,90.7,8.2,1.1
+Hospital-Based Residential,17236,0.2,0,95.4,4,0.5
+Detox Residential,50,0.1,0,87.5,1.8,0
+Detox-Hospital Inpatient,47,0.3,0,95.7,2.1,2.1
+Detox Outpatient (Non-Methadone),245,0.3,0,95.9,2,2
+Early Intervention,277,5.7,3,46.4,4,49.3
+Total,85099,-,-,-,-,-

@@ -1,0 +1,35 @@
+﻿Age_Group,Drug,Female_N,Female_%,Male_N,Male_%,Total_N,Total_%
+0-17,Alcohol,12,50,12,50,24,100
+0-17,Heroin,1,14.3,6,85.7,7,100
+0-17,Other Opiates,3,42.9,4,57.1,7,100
+0-17,Marijuana/Hashish,295,33.1,597,66.9,892,100
+0-17,Other Drugs & Unknown,5,41.7,7,58.3,12,100
+0-17,Total,316,33.5,626,66.5,942,100
+18-24,Alcohol,644,34.5,1220,65.5,1864,100
+18-24,Heroin,386,35.9,688,64.1,1074,100
+18-24,Other Opiates,215,27.4,569,72.6,784,100
+18-24,Marijuana/Hashish,332,24.3,1034,75.7,1366,100
+18-24,Methamphetamines,51,41.5,72,58.5,123,100
+18-24,Other Drugs & Unknown,238,34,462,66,700,100
+18-24,Total,1866,31.6,4045,68.4,5911,100
+25-59,Alcohol,8146,30.4,18661,69.6,26807,100
+25-59,Heroin,9040,32.6,18650,67.4,27690,100
+25-59,Other Opiates,1688,31.1,3746,68.9,5434,100
+25-59,Marijuana/Hashish,746,22.6,2557,77.4,3303,100
+25-59,Methamphetamines,326,27.5,861,72.5,1187,100
+25-59,Other Drugs & Unknown,2448,31.5,5319,68.5,7767,100
+25-59,Total,22394,31,49794,69,72188,100
+60&Over,Alcohol,924,30,2155,70,3079,100
+60&Over,Heroin,577,27,1563,73,2140,100
+60&Over,Other Opiates,107,34.5,203,65.5,310,100
+60&Over,Marijuana/Hashish,8,17,39,83,47,100
+60&Over,Methamphetamines,10,33.3,20,66.7,30,100
+60&Over,Other Drugs & Unknown,132,25,396,75,528,100
+60&Over,Total,1758,28.7,4376,71.3,6134,100
+Total,Alcohol,9726,30.6,22048,69.4,31774,100
+Total,Heroin,10004,32.4,20907,67.6,30911,100
+Total,Other Opiates,2013,30.8,4522,69.2,6535,100
+Total,Marijuana/Hashish,1381,24.6,4227,75.4,5608,100
+Total,Methamphetamines,387,28.9,953,71.1,1340,100
+Total,Other Drugs & Unknown,2823,31.3,6184,68.7,9007,100
+Total,Total,26334,30.9,58841,69.1,85175,100
